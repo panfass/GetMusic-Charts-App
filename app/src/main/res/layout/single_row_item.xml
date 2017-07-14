@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView android:id="@+id/isid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="✅"
+        android:textSize="15sp"
+        android:paddingBottom="3dp" />
+
+    <TextView android:id="@+id/islistname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sample Data 2"
+        android:textSize="15sp"
+        android:paddingBottom="5dp" />
+
+    <TextView android:id="@+id/isdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sample Data 3"
+        android:textSize="15sp"
+        android:paddingBottom="5dp" />
+
+
+
+</LinearLayout>
