@@ -16,7 +16,7 @@ So I created an alpha-stage of my want-to-make app.
 
 Currently features:
 * [Youtube Charts](https://artists.youtube.com/charts/videos) with the possibility of download (.mp3 format) using youtubeinmp3
-* [Spotify](https://artists.youtube.com/charts/videos)  (Using Spotify Android API. For now only playbacks music)
+* [Spotify](https://spotify.github.io/android-sdk/player/)  (Using Spotify Android API. For now only playbacks music)
 * [Deezer](https://developers.deezer.com/api) (Using Deezer Android API. For now only playbacks music)
 
  
@@ -28,3 +28,7 @@ You may go ahead and clone the project (or just download .zip) and then import i
 ![history_tab](https://user-images.githubusercontent.com/16108478/28223726-2fe5b2a2-68d5-11e7-84d5-86d450f11ba7.jpg)
 ![services](https://user-images.githubusercontent.com/16108478/28223724-2fe0a168-68d5-11e7-8058-5a68b769d15c.jpg)
 ![youtubeplayer](https://user-images.githubusercontent.com/16108478/28223725-2fe22466-68d5-11e7-9d4d-73b69b281f6b.jpg)
+
+
+
+Please note that the app is in alpha-stage, thus it comes as is, with no warrantly or whatsoever.
