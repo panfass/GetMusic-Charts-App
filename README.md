@@ -19,11 +19,14 @@ Currently features:
 * [Spotify](https://spotify.github.io/android-sdk/player/)  (Using Spotify Android API. For now it just playbacks music)
 * [Deezer](https://developers.deezer.com/api) (Using Deezer Android API. For now it just playbacks music)
 
+And also a history tab to be able to check what you have downloaded.
  
 ## How To use
 You may go ahead and clone the project (or just download .zip) and then import it on Android Studio.
 
 ## Screenshots
+ 
+ App is mostly in greek translation, you can contact me for any help you might need.
  
 ![history_tab](https://user-images.githubusercontent.com/16108478/28223726-2fe5b2a2-68d5-11e7-84d5-86d450f11ba7.jpg)
 ![services](https://user-images.githubusercontent.com/16108478/28223724-2fe0a168-68d5-11e7-8058-5a68b769d15c.jpg)
