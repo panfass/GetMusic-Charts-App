@@ -9,15 +9,15 @@ For this purpose an Android based mobile app has been deployed and has several u
 ## Aim And Usage
 
 This app was created based on the idea that simple is also powerful!
-I wanted to build an App that would allow me to manually manage each (popular) Music Steaming Service from one Application and also download from it.
+I wanted to build an App that would allow me to manually manage many Music Steaming Services (like Spotify or Deezer) display their Charts (chart listings) and also download tracks offline from them.
 In this application I chose Spotify, Deezer and Youtube Music Charts.
 
-So I created an alpha-stage of my want-to-make app. 
+So I created an alpha-stage of my want-to-develop app. 
 
 Currently features:
-* [Youtube Charts](https://artists.youtube.com/charts/videos) with the possibility of download (.mp3 format) using youtubeinmp3
-* [Spotify](https://spotify.github.io/android-sdk/player/)  (Using Spotify Android API. For now only playbacks music)
-* [Deezer](https://developers.deezer.com/api) (Using Deezer Android API. For now only playbacks music)
+* [Youtube Charts](https://artists.youtube.com/charts/videos) with the possibility of retrieving charts and offline downloading in .mp3 format using [Youtubeinmp3](https://www.youtubeinmp3.com/).
+* [Spotify](https://spotify.github.io/android-sdk/player/)  (Using Spotify Android API. For now it just playbacks music)
+* [Deezer](https://developers.deezer.com/api) (Using Deezer Android API. For now it just playbacks music)
 
  
 ## How To use
